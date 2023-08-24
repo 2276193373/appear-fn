@@ -1,0 +1,23 @@
+{
+  "name": "appear-fn",
+  "version": "1.0.0",
+  "description": "当元素出现或消失在视口中时执行函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2276193373/appear-fn.git"
+  },
+  "keywords": [
+    "当元素出现或消失在视口中时执行函数",
+    "IntersectionObserver"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2276193373/appear-fn/issues"
+  },
+  "homepage": "https://github.com/2276193373/appear-fn#readme"
+}
